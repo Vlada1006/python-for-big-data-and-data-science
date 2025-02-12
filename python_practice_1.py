@@ -1,0 +1,1 @@
+print ("Vladyslava Diachenko, group 3")
